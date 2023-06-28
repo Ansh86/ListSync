@@ -15,5 +15,5 @@ Introducing  efficient task management application designed to help you stay org
 3. Users can conveniently update the status of tasks, making it easy to track their progress.
 
 # Screenshots!
-
+<img src="https://github.com/Ansh86/ListSync/blob/master/1.jpg" width="200" height="400">
 
