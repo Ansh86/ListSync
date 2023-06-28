@@ -1,5 +1,5 @@
 # ListSync
-![unnamed](https://github.com/Ansh86/ListSync/assets/106815026/5bfd8064-a2c0-46c6-bec8-f4aa5624f97a)
+<img src="https://github.com/Ansh86/ListSync/blob/master/logo.png" width="250" height="250">
 
 Introducing  efficient task management application designed to help you stay organized and focused. With this app, you can effortlessly track and manage your to-do list, checking off tasks as you complete them. Enjoy the convenience of easily editing or deleting items on your list, ensuring your tasks are always up to date. Stay on top of your priorities and boost your productivity with this user-friendly task management solution.
 
